@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&family=Luckiest+Guy&family=Rubik+Marker+Hatch&display=swap');
+
+
+.who_am_i{
+    position: absolute;
+    width: 100%;
+    height: 600px;
+    top:200px;
+    background-color: #67DBA4;
+    display:grid;
+    place-items: center;
+    font-size: 100px;
+}
