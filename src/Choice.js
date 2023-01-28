@@ -78,7 +78,7 @@ function Choice(props) {
 
                 {/*서클1*/}
                 <div className="circle_1" draggable="true" id = "c1">
-                    <img className="circle_1_img" src="./img/abc.png" ></img>
+                    <img className="circle_1_img" src="./img/icon_1.png" ></img>
                     <p className="text_1">Who am I</p>
                 </div>
                 {/*줌!*/}
